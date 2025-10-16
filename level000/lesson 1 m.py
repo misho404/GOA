@@ -84,8 +84,8 @@ forward(200)
 
 exitonclick()
 
-
-
+git config --global user.email "javakhidze.mikheil@gmail.com"
+  git config --global user.name "misho404"
 
 
 
